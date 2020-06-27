@@ -3,8 +3,5 @@ change git
 git hahahaha
 git 1
 git 2
-<<<<<<< HEAD
 git 3
-=======
-git 3
->>>>>>> dev
+
